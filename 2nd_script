@@ -1,0 +1,10 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use 'gcloud config set project [PROJECT_ID]"
+f83012332@cloudshell:~$ pico latihan1.sh f83012332@cloudshell: ~$ cat latihan1.sh
+#!/bin/bash
+echo "buat direktori latihanscript dan file coba"
+echo "=========================================="
+mkdir
+latihanscript cd
+latihanscript/
+touch coba
